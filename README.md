@@ -1,13 +1,13 @@
-# 👋 Hi, I'm **Samriddhi Chauhan**
-
-BTech AI Student • AI/ML & Data Science Enthusiast • Full-Stack (Django) Learner • Design + Figma Explorer
+# 👋 Hey, I'm **Samriddhi Chauhan**
+🎓 AI Student | 🤖 ML & Data Science Explorer | 🛠️ Backend Builder | 🎨 Figma & UI/UX Designer
 
 ---
 
-## 🌟 About Me
-I’m passionate about **AI, ML, and data-driven problem solving**, and I enjoy turning ideas into real products with clean logic and simple design.  
-I love working across the stack — from **Python/Django backend** to **UI/UX prototypes in Figma**.  
-Always learning, experimenting, and building things that make sense and look good.
+## About Me
+🧠 Currently navigating the world of **AI, ML, and data**, trying to make machines slightly smarter than my debugging habits.  
+🎨 I design clean, minimal digital interfaces on **Figma**, because good UI makes everything better—including my mood.  
+⚙️ I enjoy mixing logic + creativity: Python scripts, Django backends, SQL queries, and polished product designs.  
+✨ If it involves thinking, building, or designing—I’m in.
 
 ---
 
@@ -15,7 +15,7 @@ Always learning, experimenting, and building things that make sense and look goo
 
 ### **Languages**
 Python • C • C++ • Java  
-HTML • CSS • JavaScript  
+HTML5 • CSS3 • JavaScript  
 
 ### **AI / ML / Data Science**
 NumPy • Pandas • Matplotlib  
@@ -26,34 +26,39 @@ Django • REST APIs
 MySQL • SQLite  
 
 ### **Design & Frontend**
-Figma • Bootstrap • UI/UX Basics
+Figma • UI/UX • Bootstrap  
 
 ---
 
-## 🚀 Recent Project
+## 🌟 Latest Project
 
 ### **InsightSphere**
-A lightweight, ML-assisted analytics tool that helps users explore datasets and generate insights quickly.  
-Built with **Django**, **Python**, and a clean **Figma-designed interface**.
+A clean, ML-powered mini-tool that helps users upload datasets and instantly get meaningful insights and visualizations.  
+🚀 Built with **Django**, **Python ML Pipelines**, and a **Figma-crafted interface** for a smooth experience.  
+🤓 Making data feel less scary and more “oh wow, that’s interesting.”
 
 ---
 
-## 🌱 What I’m Learning
-- Advanced ML techniques  
-- DSA fundamentals  
-- Better backend structure & clean APIs  
-- Improving UI/UX and product design thinking  
+## 🌱 Currently Growing (and Debugging)
+- Strengthening ML workflows  
+- Writing cleaner backend logic  
+- Improving DSA fundamentals  
+- Designing more intuitive, user-centered products  
 
 ---
 
-## 📊 Fun Stats
-- Code that works on first try: 40%  
-- Bugs that teach me something: 100%  
-- Times I rewrite code for clarity: often  
+## 📊 Stats & Stuff
+
+### ⚡ Productivity (Honest Edition)
+🎯 Times I solved a problem without understanding why: ██████████ 100%  
+🤖 Moments ML models behaved better than my code: ████████░░ 80%  
+🎭 Times I refreshed VS Code hoping it fixes everything: █████████░░ 95%  
+⌨️ Lines added → deleted → added back: ███████░░░ 70%
 
 ---
 
-## 📬 Connect
-Portfolio: coming soon  
-LinkedIn: www.linkedin.com/in/samriddhi-chauhan-616a47278 
-Email: samriddhichauhan039@gmail.com
+## 📬 Let's Connect
+🌐 Portfolio: coming soon  
+💼 LinkedIn: www.linkedin.com/in/samriddhi-chauhan-616a47278  
+📧 Email: samriddhichauhan039@gmail.com
+
