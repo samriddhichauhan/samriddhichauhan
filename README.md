@@ -1,4 +1,3 @@
-````md id="bjlwmq"
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:F8C8DC,100:E7B6FF&height=280&section=header&text=Samriddhi%20Chauhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -15,46 +14,34 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-```yaml
-class SamriddhiChauhan:
-
-    def __init__(self):
-        self.role = "UI/UX Designer & AI Student"
-        self.style = "minimal • aesthetic • modern"
-        self.loves = [
-            "pretty interfaces",
-            "creative coding",
-            "soft color palettes",
-            "building digital experiences"
-        ]
-
-    def currently_learning(self):
-        return [
-            "Agentic AI",
-            "Machine Learning",
-            "Product Design",
-            "Backend Development"
-        ]
-````
-
-</div>
-
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
-
 # 🌸 About Me
+
+```yaml
+name: Samriddhi Chauhan
+role: UI/UX Designer & AI Student
+style: minimal • aesthetic • modern
+
+currently_learning:
+  - Agentic AI
+  - Product Design
+  - Machine Learning
+  - Backend Development
+
+loves:
+  - Pretty Interfaces
+  - Creative Coding
+  - Soft Color Palettes
+  - Building Digital Experiences
+```
+
+<img align="right" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
 
 🎀 Designing interfaces that feel soft, modern, and intuitive.
 🤍 Exploring AI, Machine Learning, and creative technology.
 💻 Building backend systems with Python, Django, APIs, and SQL.
 ✨ Mixing logic + aesthetics to create meaningful digital products.
-
-<br>
 
 > *"Good design feels invisible. Great design feels magical."*
 
@@ -145,4 +132,3 @@ Understand Better 💡
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:F8C8DC,100:E7B6FF&height=120&section=footer"/>
 
 </div>
-```
