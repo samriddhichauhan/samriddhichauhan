@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+<img width="220" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-6f00-4f5d-94dc-7aedf1fdbb35.gif">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 # 🌸 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
 ✨ UI/UX Designer who loves creating soft, modern, and aesthetic digital experiences.
 🤖 Exploring AI, Machine Learning, and creative technology.
@@ -53,7 +53,7 @@
 
 ### AI-Powered Data Visualization Platform
 
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="220"/>
+<img width="220" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8b2e-0d3c5f8d8b59.gif">
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhichauhan&theme=transparent&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=samriddhichauhan&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
