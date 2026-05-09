@@ -1,8 +1,11 @@
+````html
+<!-- PASTE THIS IN YOUR README.md -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,50:F8C8FF,100:D9C2FF&height=300&section=header&text=Samriddhi%20Chauhan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:F8C8FF,100:E7B6FF&height=320&section=header&text=Samriddhi%20Chauhan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=28&pause=1200&color=F7A8C4&center=true&vCenter=true&width=850&lines=UI%2FUX+Designer+%F0%9F%8C%B8;AI+%26+Creative+Developer+%F0%9F%A4%96;Building+cute+digital+experiences+%F0%9F%92%95;Designing+with+logic+%26+aesthetics+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=30&pause=1200&color=F7A8C4&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer+%F0%9F%8C%B8;AI+%26+Creative+Developer+%F0%9F%A4%96;Building+cute+digital+experiences+%F0%9F%92%95;Designing+with+logic+%26+aesthetics+%E2%9C%A8" />
 
 <br><br>
 
@@ -14,7 +17,7 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3A4Y3A4bXZ1NjE5NGx4cG9uMjA5dDN2M2h6MzE1c3M3aGg4YmR6NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
 
 </div>
 
@@ -22,16 +25,16 @@
 
 # 🌸 About Me
 
-<div align="center">
+<img align="right" width="280" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
 
-```yaml id="l4xljq"
+```yaml
 name: Samriddhi Chauhan
 role: UI/UX Designer & AI Student
 
 aesthetic:
   - soft colors
   - modern minimalism
-  - clean interfaces
+  - dreamy interfaces
   - pretty user experiences
 
 currently_learning:
@@ -41,21 +44,15 @@ currently_learning:
   - Backend Development
 
 fun_fact:
-  "I redesign things for fun even after saying final version ✨"
-```
+  "I redesign things even after saying final version ✨"
+````
 
-</div>
-
-<img align="right" width="280" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
-
-🎀 Designing interfaces that feel elegant, dreamy, and intuitive.
+🎀 Designing interfaces that feel elegant, soft, and intuitive.
 🤍 Exploring AI, Machine Learning, and creative technology.
 💻 Building backend systems with Python, Django, APIs, and SQL.
 ✨ Turning ideas into aesthetic digital experiences with logic + creativity.
 
-<br>
-
-> *“Beautiful things make people feel something.”* 💕
+> *"Beautiful things make people feel something."* 💕
 
 <br><br>
 
@@ -66,10 +63,6 @@ fun_fact:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,django,mysql,sqlite,figma,bootstrap" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -87,7 +80,7 @@ fun_fact:
 
 </div>
 
-```txt id="k4b3bz"
+```txt
 Upload Dataset ✨
       ↓
 Analyze with AI 🤖
@@ -107,11 +100,11 @@ Understand Better 💡
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=f8bbd0&line=e7b6ff&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddhichauhan&bg_color=0d1117&color=f8bbd0&line=e7b6ff&point=ffffff&hide_border=true"/>
 
 </div>
 
-```txt id="s3af04"
+```txt
 🎨 Product Design & UX Psychology
 🤖 Advanced AI & Machine Learning
 ⚡ Scalable Backend Systems
@@ -125,13 +118,13 @@ Understand Better 💡
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samriddhichauhan&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhichauhan&theme=transparent&hide_border=true"/>
 
 <br>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false"/>
+<img src="https://github-profile-trophy.vercel.app/?username=samriddhichauhan&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -157,6 +150,7 @@ Understand Better 💡
 
 ### 💕 design • code • create • repeat
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,50:F8C8FF,100:D9C2FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:F8C8FF,100:E7B6FF&height=120&section=footer"/>
 
 </div>
+```
