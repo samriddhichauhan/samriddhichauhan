@@ -1,68 +1,71 @@
 ````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samriddhi%20Chauhan&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:E1BEE7,100:B39DDB&height=260&section=header&text=Samriddhi%20Chauhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# ✨ AI Student • UI/UX Designer • Backend Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Designing+beautiful+digital+experiences.;Building+AI-powered+products.;Turning+ideas+into+reality+with+code+%26+creativity." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=F48FB1&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%E2%9C%A8;AI+%26+ML+Explorer+%F0%9F%A4%96;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F;Building+beautiful+digital+experiences." />
 
 <br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Design-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX-Figma-pink?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Django-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Loves-Coffee%20%26%20Clean%20UI-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Design-Figma-F48FB1?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-Python-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Backend-Django-111111?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Creative%20Mind-Minimal%20Design-CE93D8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌷 About Me
+# ✨ About Me
 
 ```yaml
 name: Samriddhi Chauhan
-role: AI & Design Enthusiast
+role: UI/UX Designer & AI Student
+focus: Building meaningful digital experiences
+
 currently_learning:
   - Agentic AI
-  - Machine Learning
   - Product Design
-  - Backend Development
+  - Machine Learning
+  - Backend Architecture
 
-interests:
-  - UI/UX Design
-  - Data Visualization
-  - AI Products
+loves:
   - Clean Interfaces
-
-philosophy:
-  "Beautiful design + smart functionality = impactful products"
+  - Beautiful Visuals
+  - Creative Coding
+  - Aesthetic Products
 ````
 
-🧠 Exploring the world of **Artificial Intelligence, Machine Learning, and Data Science**
-🎨 Designing minimal, aesthetic, and user-focused interfaces with **Figma**
-⚙️ Building backend systems using **Python, Django, APIs, and SQL**
-✨ Blending creativity and logic to build products people actually enjoy using
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎨 I love designing interfaces that feel modern, elegant, and intuitive.
+🤖 Exploring AI, ML, and data-driven products with creativity + logic.
+⚙️ Building backend systems using Python, Django, APIs, and databases.
+✨ Obsessed with creating products that are not just functional — but memorable.
+
+> *“People ignore design that ignores people.”*
+
+<br><br>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css" />
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 
-### 🎨 Design & Frontend
+### Design & Frontend
 
 <img src="https://skillicons.dev/icons?i=figma,bootstrap" />
 
-### 🤖 AI / Data Science
+### AI / Data Science
 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 
@@ -70,53 +73,52 @@ philosophy:
 
 ---
 
-# 🌟 Featured Project
+# 🌸 Featured Project
 
 <div align="center">
 
 ## ✨ InsightSphere
 
-### ML-Powered Data Visualization Platform
+### AI-Powered Data Visualization Platform
 
 </div>
 
-A clean and interactive platform where users can upload datasets and instantly receive:
+A minimal and elegant platform that transforms raw datasets into meaningful visual insights.
 
-✔️ Smart insights
-✔️ Beautiful visualizations
-✔️ ML-powered analysis
-✔️ Clean user experience
+```txt
+Upload Data → Analyze → Visualize → Understand
+```
 
-### 🚀 Built Using
+### Built With
 
 * Django
 * Python ML Pipelines
-* Data Visualization
-* Figma UI/UX
+* Interactive Data Visualization
+* Figma-crafted UI/UX
 
 ---
 
 # 🌱 Currently Growing
 
 ```txt
-🧩 Strengthening Machine Learning concepts
-🎨 Improving product design thinking
-⚡ Building scalable backend systems
-📚 Practicing DSA consistently
-☕ Surviving on caffeine & curiosity
+🎨 Product Design & UX Thinking
+🤖 Advanced AI & Machine Learning
+⚡ Scalable Backend Systems
+📚 DSA & Problem Solving
+☕ Consuming unhealthy amounts of caffeine
 ```
 
 ---
 
-# 📊 Developer Stats (100% Real)
+# 📊 GitHub Energy
 
-```txt
-🎯 Solved bugs accidentally                     ██████████ 100%
-🎨 Redesigned UI after saying “final version”  █████████░ 95%
-🤖 ML models behaving unexpectedly             ████████░░ 80%
-⌨️ Added → deleted → re-added same code        ███████░░░ 70%
-☕ Productivity powered by caffeine            ██████████ 100%
-```
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
 
 ---
 
@@ -124,12 +126,12 @@ A clean and interactive platform where users can upload datasets and instantly r
 
 <div align="center">
 
-<a href="www.linkedin.com/in/samriddhi-chauhan-616a47278">
-  <img src="https://img.shields.io/badge/LinkedIn-Samriddhi%20Chauhan-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/samriddhi-chauhan-616a47278">
+<img src="https://img.shields.io/badge/LinkedIn-Samriddhi%20Chauhan-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samriddhichauhan039@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -138,9 +140,9 @@ A clean and interactive platform where users can upload datasets and instantly r
 
 <div align="center">
 
-### ✨ “Design. Build. Break. Learn. Repeat.”
+### ✨ Design • Build • Create • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:E1BEE7,100:B39DDB&height=120&section=footer"/>
 
 </div>
 ```
