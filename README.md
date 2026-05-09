@@ -1,64 +1,146 @@
-# 👋 Hey, I'm **Samriddhi Chauhan**
-🎓 AI Student | 🤖 ML & Data Science Explorer | 🛠️ Backend Builder | 🎨 Figma & UI/UX Designer
+````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Samriddhi%20Chauhan&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+# ✨ AI Student • UI/UX Designer • Backend Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Designing+beautiful+digital+experiences.;Building+AI-powered+products.;Turning+ideas+into+reality+with+code+%26+creativity." />
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Design-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Figma-pink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Django-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-Coffee%20%26%20Clean%20UI-ff69b4?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## About Me
-🧠 Currently navigating the world of **AI, ML, and data**, trying to make machines slightly smarter than my debugging habits.  
-🎨 I design clean, minimal digital interfaces on **Figma**, because good UI makes everything better—including my mood.  
-⚙️ I enjoy mixing logic + creativity: Python scripts, Django backends, SQL queries, and polished product designs.  
-✨ If it involves thinking, building, or designing—I’m in.
+# 🌷 About Me
+
+```yaml
+name: Samriddhi Chauhan
+role: AI & Design Enthusiast
+currently_learning:
+  - Agentic AI
+  - Machine Learning
+  - Product Design
+  - Backend Development
+
+interests:
+  - UI/UX Design
+  - Data Visualization
+  - AI Products
+  - Clean Interfaces
+
+philosophy:
+  "Beautiful design + smart functionality = impactful products"
+````
+
+🧠 Exploring the world of **Artificial Intelligence, Machine Learning, and Data Science**
+🎨 Designing minimal, aesthetic, and user-focused interfaces with **Figma**
+⚙️ Building backend systems using **Python, Django, APIs, and SQL**
+✨ Blending creativity and logic to build products people actually enjoy using
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### **Languages**
-Python • C • C++ • Java  
-HTML5 • CSS3 • JavaScript  
+<div align="center">
 
-### **AI / ML / Data Science**
-NumPy • Pandas • Matplotlib  
-scikit-learn • Data Visualization  
+### 💻 Languages
 
-### **Backend & Databases**
-Django • REST APIs  
-MySQL • SQLite  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js" />
 
-### **Design & Frontend**
-Figma • UI/UX • Bootstrap  
+### ⚙️ Backend & Database
 
----
+<img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 
-## 🌟 Latest Project
+### 🎨 Design & Frontend
 
-### **InsightSphere**
-A clean, ML-powered mini-tool that helps users upload datasets and instantly get meaningful insights and visualizations.  
-🚀 Built with **Django**, **Python ML Pipelines**, and a **Figma-crafted interface** for a smooth experience.  
-🤓 Making data feel less scary and more “oh wow, that’s interesting.”
+<img src="https://skillicons.dev/icons?i=figma,bootstrap" />
+
+### 🤖 AI / Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+</div>
 
 ---
 
-## 🌱 Currently Growing (and Debugging)
-- Strengthening ML workflows  
-- Writing cleaner backend logic  
-- Improving DSA fundamentals  
-- Designing more intuitive, user-centered products  
+# 🌟 Featured Project
+
+<div align="center">
+
+## ✨ InsightSphere
+
+### ML-Powered Data Visualization Platform
+
+</div>
+
+A clean and interactive platform where users can upload datasets and instantly receive:
+
+✔️ Smart insights
+✔️ Beautiful visualizations
+✔️ ML-powered analysis
+✔️ Clean user experience
+
+### 🚀 Built Using
+
+* Django
+* Python ML Pipelines
+* Data Visualization
+* Figma UI/UX
 
 ---
 
-## 📊 Stats & Stuff
+# 🌱 Currently Growing
 
-### ⚡ Productivity (Honest Edition)
-🎯 Times I solved a problem without understanding why: ██████████ 100%  
-🤖 Moments ML models behaved better than my code: ████████░░ 80%  
-🎭 Times I refreshed VS Code hoping it fixes everything: █████████░░ 95%  
-⌨️ Lines added → deleted → added back: ███████░░░ 70%
+```txt
+🧩 Strengthening Machine Learning concepts
+🎨 Improving product design thinking
+⚡ Building scalable backend systems
+📚 Practicing DSA consistently
+☕ Surviving on caffeine & curiosity
+```
 
 ---
 
-## 📬 Let's Connect
-🌐 Portfolio: coming soon  
-💼 LinkedIn: www.linkedin.com/in/samriddhi-chauhan-616a47278  
-📧 Email: samriddhichauhan039@gmail.com
+# 📊 Developer Stats (100% Real)
 
+```txt
+🎯 Solved bugs accidentally                     ██████████ 100%
+🎨 Redesigned UI after saying “final version”  █████████░ 95%
+🤖 ML models behaving unexpectedly             ████████░░ 80%
+⌨️ Added → deleted → re-added same code        ███████░░░ 70%
+☕ Productivity powered by caffeine            ██████████ 100%
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="www.linkedin.com/in/samriddhi-chauhan-616a47278">
+  <img src="https://img.shields.io/badge/LinkedIn-Samriddhi%20Chauhan-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:samriddhichauhan039@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Design. Build. Break. Learn. Repeat.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
+```
